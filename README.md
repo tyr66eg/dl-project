@@ -1,5 +1,7 @@
 # dl-project
-Dl Project - Built with ❤️
+
+## Project Overview
+This project is designed to demonstrate various functionalities and showcase the development process. It is built with ❤️ and aims to provide useful insights and examples.
 
 ## License
 
